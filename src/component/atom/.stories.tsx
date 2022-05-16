@@ -1,5 +1,6 @@
 import { ComponentMeta, Story } from '@storybook/react';
 import {  } from './';
+import Image from 'next/image';
 
 export default {
   title: 'atom/',
