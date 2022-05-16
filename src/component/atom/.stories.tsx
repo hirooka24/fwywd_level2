@@ -2,7 +2,7 @@ import { ComponentMeta, Story } from '@storybook/react';
 import {  } from './';
 import Image from 'next/image';
 import link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default {
   title: 'atom/',
