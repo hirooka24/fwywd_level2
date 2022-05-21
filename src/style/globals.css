@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.tag-xs-primary {
+  @apply bg-primary-800 px-3 py-1 text-sm font-bold  text-white;
+}
+
+.tag-xs-pink {
+  @apply bg-pink-700 px-3 py-1 text-sm font-bold  text-white;
+}
